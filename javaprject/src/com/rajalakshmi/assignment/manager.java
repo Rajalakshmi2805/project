@@ -9,7 +9,7 @@ public class manager {
 		public void setField(String field) {
 		this.field = field;
 		}
-	public String getposition()
+	public String getPosition()
 	{
 		return position;
 	}
@@ -17,11 +17,11 @@ public class manager {
 	{
 		this.position=position;
 	}
-	@Override
-	public String toString()
-	{
-		return "manager [Field=" + field + ", position=" + position + "]";
-	}
+	//@Override
+	//public String toString()
+	//{
+	//	return "manager [Field=" + field + ", position=" + position + "]";
+	//}
 
 	
 		
