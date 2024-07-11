@@ -26,7 +26,7 @@ public class encapsulation {
 		}
 		@Override
 		public String toString() {
-		return "OopsConceptDemo [Serial Number=" + serialNum + ", name=" + name + ", age=" + age + "]";
+		return "encapsulation [Serial Number=" + serialNum + ", name=" + name + ", age=" + age + "]";
 		}
 		}
 		
