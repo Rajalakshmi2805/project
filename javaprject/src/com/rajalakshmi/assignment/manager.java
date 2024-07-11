@@ -17,11 +17,11 @@ public class manager {
 	{
 		this.position=position;
 	}
-	//@Override
-	//public String toString()
-	//{
-	//	return "manager [Field=" + field + ", position=" + position + "]";
-	//}
+	@Override
+	public String toString()
+	{
+		return "manager [Field=" + field + ", position=" + position + "]";
+	}
 
 	
 		

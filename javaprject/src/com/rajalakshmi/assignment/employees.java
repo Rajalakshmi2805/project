@@ -26,7 +26,7 @@ public class employees extends manager {
 @Override
 public String toString()
 {
-    		return "employee [Name=" + name + ", Employee's ID=" + employeeid + ", Salary=" + salary + "Field=\" + field + \", position=\" + position +]";
+    		return "employee [Name=" + name + ", Employee's ID=" + employeeid + ", Salary=" + salary + "]";
 }
 
 
