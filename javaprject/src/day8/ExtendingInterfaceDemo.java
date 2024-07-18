@@ -1,6 +1,6 @@
 package day8;
 
-public class ExtendingInterfaceDemo implements ChildInterface {
+public class ExtendingInterfaceDemo implements childInterface {
 	public void print()
 	{
 		System.out.println("print method");
